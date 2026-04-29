@@ -1,0 +1,6 @@
+# Hide API keys
+*.env
+__pycache__/
+*.pyc
+response.mp3
+input.wav

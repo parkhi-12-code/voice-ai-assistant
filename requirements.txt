@@ -1,0 +1,6 @@
+openai-whisper
+gtts
+groq
+scipy
+sounddevice
+playsound==1.2.2
