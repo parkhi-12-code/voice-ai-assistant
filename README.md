@@ -257,4 +257,4 @@ This project is open-source under the [MIT License](LICENSE).
 - [Meta LLaMA 3](https://ai.meta.com/llama/) — Open-source LLM
 - [Groq](https://console.groq.com) — Ultra-fast LLM inference API
 - [gTTS](https://gtts.readthedocs.io) — Text-to-Speech library
-- [LTRC, IIIT Hyderabad](https://ltrc.iiit.ac.in) — IASNLP 2026
+
